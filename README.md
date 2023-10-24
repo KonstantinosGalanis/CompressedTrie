@@ -1,6 +1,6 @@
 # CompressedTrie
 
-This is a program writeen in java that implements a dictionary of the English language through a [compressed Trie](https://www.cs.usfca.edu/~galles/visualization/RadixTree.html) based (radix) on the English alphabet (a-z). 
+This is a program written in java that implements a dictionary of the English language through a [compressed Trie](https://www.cs.usfca.edu/~galles/visualization/RadixTree.html) based (radix) on the English alphabet (a-z). 
 Compressed is any Trie whose nodes that are not terminals and have only one child are joined to their child. Joined nodes represent a string instead of a single character.
 
 # Features 
